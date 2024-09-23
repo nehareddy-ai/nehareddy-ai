@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nehareddy-ai
-- 👀 I’m interested in Traveeling to the world
+- 👋 Hi, I’m <p><h2>@nehareddy-ai
+- 👀 I’m interested in <p><h2>Learning about new cultures, foods, and experiences.
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on communication skills,active listening
 - - 📫 How to reach me :BY walk
-- 😄 Pronouns:he\his...
+- 😄 Pronouns:she\her
 - ⚡ Fun fact:The color orange was actually named after oranges.
 - Interesting facts aren’t just nice to have in your own back …
 
