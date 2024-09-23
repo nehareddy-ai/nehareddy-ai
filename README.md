@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on communication skills,active listening
 - - 📫 How to reach me :BY walk
-- 😄 Pronouns:she\her...
+- 😄 Pronouns:he\his...
 - ⚡ Fun fact:The color orange was actually named after oranges.
 - Interesting facts aren’t just nice to have in your own back …
 
