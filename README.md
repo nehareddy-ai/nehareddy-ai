@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nehareddy-ai
 - 👀 I’m interested in Traveeling to the world
-- 🌱 I’m currently learning B.tech
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on communication skills,active listening
 - - 📫 How to reach me :BY walk
 - 😄 Pronouns:she\her...
